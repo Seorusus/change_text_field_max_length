@@ -1,0 +1,5 @@
+name: 'Change text field max length'
+description: 'Update the length of a text field which already contains data.'
+core: 8.x
+type: module
+package: Custom
